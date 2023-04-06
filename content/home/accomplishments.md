@@ -26,6 +26,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: 
+    # date_end: '2020-02-16'
+    date_start: '2023-01-02'
+    # description: ''
+    organization: USC Viterbi Graduate Mentorship Program
+    organization_url: https://viterbigrad.usc.edu/student-life/viterbi-mentorship/
+    title: 'Mentor'
+    # url: ''
+  - certificate_url: 
   #   date_end: ''
     date_start: '2014-08-08'
     description: ''
@@ -36,7 +44,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2016-04-22'
-    description: Telangana State 1st Rank among around 0.7 million students in first year intermediate examination and under top ten ranks in second year intermediate examination
+    # description: Telangana State 1st Rank among around 0.7 million students in first year intermediate examination and under top ten ranks in second year intermediate examination
     organization: TSBIE 
     # organization_url: https://tsbie.cgg.gov.in/home.do
     title: Telangana State 1st Rank
@@ -44,7 +52,7 @@ item:
   - certificate_url: 
     # date_end: '2020-12-21'
     date_start: '2018-10-06'
-    description: 'Organised and hosted the first edition of DIAL at IIT Dharwad, leading a student team consisting of 10 students in coordination with 3 faculty members'
+    # description: 'Organised and hosted the first edition of DIAL at IIT Dharwad, leading a student team consisting of 10 students in coordination with 3 faculty members'
     organization: Development of Industry-Academia Link (DIAL), IIT Dharwad
     # organization_url: 
     title: 'Event Coordinator'

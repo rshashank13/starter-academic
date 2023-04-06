@@ -18,25 +18,25 @@ organizations:
     url: https://www.cs.usc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year CS Master's student at the University of Southern California. My research interests are chiefly Federated Learning, Statistical Machine Learning, Edge-Computing,  Edge-Accelerator Performance Characterization, Distributed and Stochastic Optimization.
+bio: I am a first year Master of Science in Computer Science student at the University of Southern California. My research interests are chiefly Federated Learning, Statistical Machine Learning, Edge-Computing,  Edge-Accelerator Performance Characterization, Distributed and Stochastic Optimization.
 
 # Interests to show in About widget
-interests:
-  - Federated Learning
-  - Statistical Machine Learning
-  - Edge-Computing
-  - Edge Accelerator Performance Characterization
-  - Distributed and Stochastic Optimisation
+# interests:
+#   - Federated Learning
+#   - Statistical Machine Learning
+#   - Edge-Computing
+#   - Edge Accelerator Performance Characterization
+#   - Distributed and Stochastic Optimisation
 
 # Education to show in About widget
-education:
-  courses:
-    - course: MS in Computer Science
-      institution: University of Southern California
-      year: 2024
-    - course: BTech in Computer Science and Engineering
-      institution: Indian Institute of Technology Dharwad
-      year: 2021
+# education:
+#   courses:
+#     - course: MS in Computer Science
+#       institution: University of Southern California
+#       year: 2024
+#     - course: BTech in Computer Science and Engineering
+#       institution: Indian Institute of Technology Dharwad
+#       year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -76,13 +76,15 @@ email: kesanapa@usc.edu
 highlight_name: true
 ---
 
-I am a first year CS Master's student at the University of Southern California. My research interests are chiefly Federated Learning, Statistical Machine Learning, Edge-Computing,  Edge-Accelerator Performance Characterization, Distributed and Stochastic Optimization.
+I am a first year Master of Science in Computer Science student at the University of Southern California. My research interests are chiefly Federated Learning, Statistical Machine Learning, Edge-Computing,  Edge-Accelerator Performance Characterization, Distributed and Stochastic Optimization.
+
+Currently, I work on-campus as a Research Assistant in the Department of Computer Science at the University of Southern California Viterbi School of Engineering, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. 
 
 Previously, I was Project Associate - I at DREAM:Lab, <a href="https://iisc.ac.in/">IISc</a> Bangalore, advised by Prof. <a href="http://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>, where I worked on performance characterization of Nvidia Jetson edge-accelerators on deep learning workloads, and also on a Federated Learning project.
 
-Prior to that, I graduated with a bachelor's in Computer Science and Engineering from <a href="https://www.iitdh.ac.in">IIT Dharwad</a>, where I worked on Federated Algorithms with Bayesian and Exponential Weighted Average approaches for my BTech Project, as a member of LIaN research group, advised by Prof. <a href="https://bnbharath.wordpress.com">B. N. Bharath</a>.
+Prior to that, I graduated with a Bachelor of Technology in Computer Science and Engineering from <a href="https://www.iitdh.ac.in">IIT Dharwad</a>. I worked on Federated Algorithms with Bayesian and Exponential Weighted Average approaches for my B.Tech. Project, as a member of LIaN research group, advised by Prof. <a href="https://bnbharath.wordpress.com">B. N. Bharath</a>.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Resume.pdf" "newtab" >}}resumé{{< /staticref >}} and {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Research_Statement.pdf" "newtab" >}}research statement{{< /staticref >}}.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/uc?export=download&id=1hOtdEqr0_R2dI66c3hPyRxrgYhjk2N-z" "newtab" >}}resumé{{< /staticref >}}. -->
