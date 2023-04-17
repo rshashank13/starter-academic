@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Sai Anuroop Kesanapalli
+title: Shashank Rangarajan
 
 # Full name (for SEO)
-first_name: Sai Anuroop
-last_name: Kesanapalli
+first_name: Shashank
+last_name: Rangarajan
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ organizations:
     url: https://www.cs.usc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year Master of Science in Computer Science student at the University of Southern California. My research interests are chiefly Federated Learning, Statistical Machine Learning, Edge-Computing,  Edge-Accelerator Performance Characterization, Distributed and Stochastic Optimization.
+bio: I am a first year Master of Science in Computer Science (Artificial Intelligence) student at the University of Southern California. My research interests are primarily Cognitive modeling, Natural Language Processing, and more recently Artificial Intelligence Safety.
 
 # Interests to show in About widget
 # interests:
@@ -45,7 +45,7 @@ bio: I am a first year Master of Science in Computer Science student at the Univ
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:kesanapa@usc.edu
+    link: mailto:shashank.rangarajan@usc.edu
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -57,10 +57,10 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/ksanu1998
+    link: https://github.com/rshashank13
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/ksanu1998
+    link: https://www.linkedin.com/in/rshashank13
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -70,21 +70,27 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: kesanapa@usc.edu
+email: shashank.rangarajan@usc.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a first year Master of Science in Computer Science student at the University of Southern California. My research interests are chiefly Federated Learning, Statistical Machine Learning, Edge-Computing,  Edge-Accelerator Performance Characterization, Distributed and Stochastic Optimization.
+I am a first-year Master of Science in Computer Science (Artificial Intelligence) student at the University of Southern California (USC). My research interests are primarily Cognitive modeling, Natural Language Processing, and more recently Artificial Intelligence Safety.
 
-Currently, I work on-campus as a Research Assistant in the Department of Computer Science at the University of Southern California Viterbi School of Engineering, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. 
+Currently, I hold two positions at USC: 
+1. Student Researcher in the Department of Chemistry at USC Dornsife, working under the guidance of Professor <a href="https://dornsife.usc.edu/chemistry/vilesov/">Andrey Vilesov</a> where I am helping with the analysis of X-ray diffraction images of <em>He</em> bubbles using deep learning models.
+2. Student Developer at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I am part of the <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a> developing an upcoming analytics pipeline for DABI.
 
-Previously, I was Project Associate - I at DREAM:Lab, <a href="https://iisc.ac.in/">IISc</a> Bangalore, advised by Prof. <a href="http://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>, where I worked on performance characterization of Nvidia Jetson edge-accelerators on deep learning workloads, and also on a Federated Learning project.
+Prior to joining USC, I gained valuable industry experience as a Software Engineer at both <a href="https://amazon.com"> Amazon Inc. </a> and <a href=""> Motorola Mobility </a>. During my tenure, I honed my skills in developing scalable software solutions, as well as developing AI systems for industrial applications. These experiences in the industry inspired me to pursue a master's degree specializing in AI, as I am passionate about understanding the principles behind the systems that govern major technological innovations in the modern world.
 
-Prior to that, I graduated with a Bachelor of Technology in Computer Science and Engineering from <a href="https://www.iitdh.ac.in">IIT Dharwad</a>. I worked on Federated Algorithms with Bayesian and Exponential Weighted Average approaches for my B.Tech. Project, as a member of LIaN research group, advised by Prof. <a href="https://bnbharath.wordpress.com">B. N. Bharath</a>.
+Prior to that, I earned my Bachelor of Engineering in Computer Science and Engineering from <a href="https://sjce.ac.in"> SJCE Mysore</a>, where I was ranked third in the department for my outstanding performance.
+
+<!-- Previously, I was a Software Development Engineer at Amazon Inc. <a href="https:amazon.in">,Project Associate - I at DREAM:Lab, <a href="https://iisc.ac.in/">IISc</a> Bangalore, advised by Prof. <a href="http://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>, where I worked on performance characterization of Nvidia Jetson edge-accelerators on deep learning workloads, and also on a Federated Learning project.
+
+Prior to that, I graduated with a Bachelor of Technology in Computer Science and Engineering from <a href="https://www.iitdh.ac.in">IIT Dharwad</a>. I worked on Federated Algorithms with Bayesian and Exponential Weighted Average approaches for my B.Tech. Project, as a member of LIaN research group, advised by Prof. <a href="https://bnbharath.wordpress.com">B. N. Bharath</a>. -->
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Resume.pdf" "newtab" >}}resumé{{< /staticref >}} and {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Research_Statement.pdf" "newtab" >}}research statement{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/uc?export=download&id=1hOtdEqr0_R2dI66c3hPyRxrgYhjk2N-z" "newtab" >}}resumé{{< /staticref >}}. -->
