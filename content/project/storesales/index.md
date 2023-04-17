@@ -9,7 +9,7 @@ authors:
   - Shriya Gumber
 tags: []
 categories: []
-date: 2023-04-17T11:21:33-07:00
+date: 2022-12-01T11:21:33-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/rshashank13/store-sales"
