@@ -43,7 +43,7 @@ experience:
     description: |
       * Worked on Expresso: An internal MLOps platform built to accelerate experimentation and deployment of ML models
       * Designed ETL support on Expresso, and onboarded 1 production use case.
-      * Re-architected Machine Learning Training Platform, and migrated 90+ production models with 0 error.
+      * Re-architected the legacy Machine Learning Training Platform, and migrated 90+ production models with 100% uptime and performance.
       * Moved production system to federated AWS accounts with 0-data loss and minimal availability impact.
       * Launched and brought in 5 customer teams to Configuration Panel, CLI, and Web UI.
       * Mitigated 100+ security risks, Fixed Sev-2s, across 10+ production pipelines owned by Expresso team.
@@ -72,7 +72,7 @@ experience:
     date_start: '2015-08-01'
     date_end: '2019-05-31'
     description: |
-      * Grade: 9.75 / 10Grade: 9.75 / 10
+      * Grade: 9.75 / 10
       * Dept. Rank 3 - Computer Science & Engineering
       * Courses: Advanced Mathematics (Calculus, Multi-variable Calculus, Fourier Series, Transforms, Probability & Statistics), Data Structures, Algorithms, Discrete Mathematics, Neural Networks and Fuzzy Logic, Data Mining, Linear Algebra, Object-Oriented Programming, Unix & Shell Programming, Operating Systems, Databases, Systems Programming, Compilers, Computer Networks, Principles of Programming Languages, Software Engineering, Finite-Automata, File Structures, MicroProcessors, Digital System Design, Cryptography & Network Security, Web Technologies, Big Data Analytics, Data Compression, Cloud Computing, Mobile Communications, Enterprise Resource Planning
 
