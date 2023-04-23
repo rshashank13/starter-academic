@@ -93,8 +93,8 @@ experience:
     company_url: 'https://www.philips.com/a-w/about/innovation/innovation-hubs/bangalore.html'
     company_logo: philips
     location: Bangalore, KA, India
-    date_start: '2018-07-31'
-    date_end: '2018-06-04'
+    date_start: '2018-06-04'
+    date_end: '2018-07-31'
     description: |
       * Worked as a research intern in the Cardiology & Radiology Informatics Department
       * Evaluated the feasibility of using end-to-end deep learning models to detect brain hemorrhage in non-contrast head CTs 
