@@ -1,19 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "[Paper Role Playing] Neural Word Embeddings as Implicit Matrix Factorization"
-summary: "Presented the paper by Levy & Goldberg (2014), where my role as a teacher I ensured my students understood the mathematical grounding of why neural embeddings can be thought of as implicit matrix factorization, and explained key insights from the paper. I finally concluded with an intriguing application of neural word embedding algorithm (skip-gram model) for recommendation systems.
-
+title: "Forward-Forward: Is it time to bid adieu to Backprop?"
+summary: "In this project, we implement the Forward-Forward algorithm porposed by Prof. Geoffrey Hinton and compare it with the traditional backpropagation algorithm. We also study the architecturual differences in FF for various datasets and propose popular architectures such as CNN, Self-Attention with Forward-Forward. Finally, we log system metrics for both the algorithms and analyze them.
 <br/><br/>
-This presentation was done towards the coursework - CSCI566: Deep learning and its applications, taught by Prof. Jesse Thomasson, Spring 2023, at USC"
-authors:
+This project was done towards the coursework - CSCI566: Deep learning and its applications, taught by Prof. Jesse Thomasson, Spring 2023, at USC"
+authors: 
   - admin
+  - Sai Anuroop Kesanapalli
+  - Avtaran Jain
+  - Anukaran Jain
 tags: []
 categories: []
-date: 2023-03-31T23:57:32-07:00
+date: 2023-04-22T17:34:55-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/ksanu1998/ff"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,8 +34,8 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "https://rshashank13.github.io/uploads/CSCI_566___Role_Playing___Shashank.pdf"
-url_slides: ""
+url_pdf: ""
+url_slides: "https://rshashank13.github.io/uploads/CSCI_566_Final_Presentation.pdf"
 url_video: ""
 
 # Slides (optional).

@@ -1,7 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 title: "Store Sales - Time Series Forecasting"
-summary: "Time series forecasting is the practice of using historical data to predict future values. It can be challenging, due to the complexity of time-series data and the difficulty of accurately modeling patterns and trends. In this project, we tackled the 'Store Sales- Time Series Forecasting' challenge on Kaggle, which involved forecasting sales at a grocery retailer in Ecuador. We trained multiple models, starting with linear regression as our baseline. After careful analysis, we improved upon the baseline and achieved an error score of 0.39525, a 13% improvement over our linear regression model."
+summary: "Time series forecasting is the practice of using historical data to predict future values. It can be challenging, due to the complexity of time-series data and the difficulty of accurately modeling patterns and trends. In this project, we tackled the 'Store Sales- Time Series Forecasting' challenge on Kaggle, which involved forecasting sales at a grocery retailer in Ecuador. We trained multiple models, starting with linear regression as our baseline. After careful analysis, we improved upon the baseline and achieved an error score of 0.39525, a 13% improvement over our linear regression model.
+
+<br/><br/>
+This project was done towards the coursework - CSCI567: Machine Learning, taught by Prof. Vatsal Sharan, Fall 2022, at USC"
 authors: 
   - admin
   - Indrani Panchangam

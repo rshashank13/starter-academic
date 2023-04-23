@@ -3,7 +3,11 @@
 
 title: "[Paper Presentation] - Tackling Fake News Detection by Continually Improving Social Context
 Representations using Graph Neural Networks"
-summary: "Presented the paper by Nikhil Mehta et. al (ACL 2022), where they propose inference operators to continually improve the social media context (represented as Relational Graph Convolutional Neural Network), to aid fake news detection."
+summary: "Presented the paper by Nikhil Mehta et. al (ACL 2022), where they propose inference operators to continually improve the social media context (represented as Relational Graph Convolutional Neural Network), to aid fake news detection.
+
+<br/><br/>
+This presentation was done towards the coursework CSCI544: Applied Natural Language Processing, taught by Prof. Mohammad Rostami, and Prof. Xuezhe Ma in Spring 2023, at USC. 
+"
 authors: 
   - admin
   - Edwin Wang
