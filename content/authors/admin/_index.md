@@ -22,21 +22,19 @@ bio: I am a first year Master of Science in Computer Science (Artificial Intelli
 
 # Interests to show in About widget
 # interests:
-#   - Federated Learning
-#   - Statistical Machine Learning
-#   - Edge-Computing
-#   - Edge Accelerator Performance Characterization
-#   - Distributed and Stochastic Optimisation
+#   - Cognitive Modeling
+#   - Natural Language Processing
+#   - Artificial Intelligence Safety
 
 # Education to show in About widget
 # education:
 #   courses:
-#     - course: MS in Computer Science
+#     - course: Master of Science in Computer Science
 #       institution: University of Southern California
 #       year: 2024
-#     - course: BTech in Computer Science and Engineering
-#       institution: Indian Institute of Technology Dharwad
-#       year: 2021
+#     - course: BE in Computer Science and Engineering
+#       institution: Sri Jayachamarajendra College of Engineering
+#       year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,13 +59,14 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rshashank13
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: fav
-#   link: uploads/resume.pdf
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: shashank.rangarajan@usc.edu
@@ -86,11 +85,5 @@ Prior to joining USC, I gained valuable industry experience as a Software Engine
 
 Prior to that, I earned my Bachelor of Engineering in Computer Science and Engineering from <a href="https://sjce.ac.in"> SJCE Mysore</a>, where I was ranked third in the department for my outstanding performance.
 
-<!-- Previously, I was a Software Development Engineer at Amazon Inc. <a href="https:amazon.in">,Project Associate - I at DREAM:Lab, <a href="https://iisc.ac.in/">IISc</a> Bangalore, advised by Prof. <a href="http://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>, where I worked on performance characterization of Nvidia Jetson edge-accelerators on deep learning workloads, and also on a Federated Learning project.
-
-Prior to that, I graduated with a Bachelor of Technology in Computer Science and Engineering from <a href="https://www.iitdh.ac.in">IIT Dharwad</a>. I worked on Federated Algorithms with Bayesian and Exponential Weighted Average approaches for my B.Tech. Project, as a member of LIaN research group, advised by Prof. <a href="https://bnbharath.wordpress.com">B. N. Bharath</a>. -->
-
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/uc?export=download&id=1hOtdEqr0_R2dI66c3hPyRxrgYhjk2N-z" "newtab" >}}resumé{{< /staticref >}}. -->

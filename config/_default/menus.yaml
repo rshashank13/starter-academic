@@ -19,9 +19,9 @@ main:
   - name: Accomplishments
     url: '#accomplishments'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 60
   - name: Resume
     url: uploads/resume.pdf
     weight: 70

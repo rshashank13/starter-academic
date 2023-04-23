@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Shashank's Portfolio # Website name
+title: Shashank Rangarajan # Website name
 baseURL: 'https://rshashank13.github.io/' # Website URL
 
 ############################
