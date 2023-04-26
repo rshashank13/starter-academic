@@ -35,9 +35,9 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
-url_slides: ""
+url_code: "https://github.com/rshashank13/identifying-deceptive-content"
+url_pdf: "https://github.com/rshashank13/identifying-deceptive-content/blob/main/reports/Identifying%20Deceptive%20Content%20-%20A%20Study%20on%20Clickbait%20and%20Fake%20News%20Detection.pdf"
+url_slides: "https://github.com/rshashank13/identifying-deceptive-content/blob/main/reports/Group%2053%20-%20Identifying%20Deceptive%20Content.pdf"
 url_video: ""
 
 # Slides (optional).
