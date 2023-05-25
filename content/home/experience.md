@@ -33,6 +33,26 @@ experience:
     description: |
       Courses: Algorithms, Machine Learning, Deep Learning, Natural Language Processing
 
+  - title: Machine Learning Intern
+    company: Intel Corporation
+    company_url: 'https://www.intel.com'
+    company_logo: intel
+    location: Los Angeles, CA, USA (Remote)
+    date_start: '2023-05-22'
+    # date_end: ''
+    description: |
+      
+  - title: Student Researcher/Developer
+    company: University of Southern California
+    company_url: 'https://www.cs.usc.edu'
+    company_logo: usc
+    location: Los Angeles, CA, USA
+    date_start: '2023-02-15'
+    # date_end: ''
+    description: |
+      * <strong>Student Developer</strong> (Feb 2023 - Present) at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I work part-time as part of the <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a> team. I am currently designing the backend components for the upcoming analytics pipeline in DABI.
+      * <strong>Student Researcher</strong> (Feb 2023 - May 2023) in the Department of Chemistry at USC Dornsife, working under the guidance of Professor <a href="https://dornsife.usc.edu/chemistry/vilesov/">Andrey Vilesov</a> where I helped with the analysis of X-ray diffraction images of <em>He</em> (Helium) bubbles using deep learning.
+
   - title: Software Development Engineer I
     company: Amazon Inc.
     company_url: 'https://www.amazon.in'

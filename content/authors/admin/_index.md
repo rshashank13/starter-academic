@@ -77,9 +77,13 @@ highlight_name: true
 
 I am a first-year Master of Science in Computer Science (Artificial Intelligence) student at the University of Southern California (USC). My research interests are primarily Cognitive modeling, Natural Language Processing, and more recently Artificial Intelligence Safety.
 
-Currently, I hold two positions at USC: 
+Currently, I hold the following positions:
+1. <strong>Machine Learning Intern</strong> for the summer (2023) at the <a href="https://www.intel.com/content/www/us/en/homepage.html">Intel Corporation</a> (remote) 
+2. <strong>Student Developer</strong> at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I work part-time as part of the <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a> team. I am currently designing the backend components for the upcoming analytics pipeline in DABI. 
+
+<!-- Currently, I hold two positions at USC: 
 1. Student Researcher in the Department of Chemistry at USC Dornsife, working under the guidance of Professor <a href="https://dornsife.usc.edu/chemistry/vilesov/">Andrey Vilesov</a> where I am helping with the analysis of X-ray diffraction images of <em>He</em> bubbles using deep learning models.
-2. Student Developer at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I am part of the <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a> developing an upcoming analytics pipeline for DABI.
+2. Student Developer at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I am part of the <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a> developing an upcoming analytics pipeline for DABI. -->
 
 Prior to joining USC, I gained valuable industry experience as a Software Engineer at both <a href="https://amazon.com"> Amazon Inc. </a> and <a href=""> Motorola Mobility </a>. During my tenure, I honed my skills in developing scalable software solutions, as well as developing AI systems for industrial applications. These experiences in the industry inspired me to pursue a master's degree specializing in AI, as I am passionate about understanding the principles behind the systems that govern major technological innovations in the modern world.
 
