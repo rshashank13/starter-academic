@@ -4,7 +4,7 @@
 title: "Forward-Forward: Is it time to bid adieu to Backprop?"
 summary: "In this project, we implement the Forward-Forward algorithm porposed by Prof. Geoffrey Hinton and compare it with the traditional backpropagation algorithm. We also study the architecturual differences in FF for various datasets and propose popular architectures such as CNN, Self-Attention with Forward-Forward. Finally, we log system metrics for both the algorithms and analyze them.
 <br/><br/>
-This project was done towards the coursework - CSCI566: Deep learning and its applications, taught by Prof. Jesse Thomasson, Spring 2023, at USC"
+This project was done towards the coursework - CSCI566: Deep learning and its applications, taught by Prof. Jesse Thomason, Spring 2023, at USC"
 authors: 
   - admin
   - Sai Anuroop Kesanapalli
@@ -34,7 +34,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/ksanu1998/ff"
-url_pdf: ""
+url_pdf: "https://rshashank13.github.io/uploads/CSCI_566___Final_Report.pdf"
 url_slides: "https://rshashank13.github.io/uploads/CSCI_566_Final_Presentation.pdf"
 url_video: ""
 
