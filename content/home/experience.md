@@ -41,8 +41,11 @@ experience:
     date_start: '2023-05-22'
     # date_end: ''
     description: |
+      * Innovated a deep-learning based patch scheduler, cut machine blocking, and reduced wastage by 60%
+      * Streamlined experimentation and rapid model iteration with MLOps pipeline, yielding superior performances
+      * Leveraged LLM expertise, achieved a 30% performance boost by fine-tuning the RoBERTa model
       
-  - title: Student Researcher/Developer
+  - title: Student Researcher
     company: University of Southern California
     company_url: 'https://www.cs.usc.edu'
     company_logo: usc
@@ -50,7 +53,7 @@ experience:
     date_start: '2023-02-15'
     # date_end: ''
     description: |
-      * <strong>Student Developer</strong> (Feb 2023 - Present) at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I work part-time as part of the <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a> team. I am currently designing the backend components for the upcoming analytics pipeline in DABI.
+      * <strong>Student Researcher</strong> (Feb 2023 - Present) at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I work part-time and lead a team of 5 engineers for NIH's  <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a>, spearheading the development of the analysis pipeline and multiple backend components.
       * <strong>Student Researcher</strong> (Feb 2023 - May 2023) in the Department of Chemistry at USC Dornsife, working under the guidance of Professor <a href="https://dornsife.usc.edu/chemistry/vilesov/">Andrey Vilesov</a> where I helped with the analysis of X-ray diffraction images of <em>He</em> (Helium) bubbles using deep learning.
 
   - title: Software Development Engineer I

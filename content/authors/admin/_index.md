@@ -75,11 +75,11 @@ email: shashank.rangarajan@usc.edu
 highlight_name: true
 ---
 
-I am a first-year Master of Science in Computer Science (Artificial Intelligence) student at the University of Southern California (USC). My research interests are primarily Cognitive modeling, Natural Language Processing, and more recently Artificial Intelligence Safety.
+I am a Master of Science in Computer Science (Artificial Intelligence) student at the University of Southern California (USC). My research interests are primarily Cognitive modeling, Natural Language Processing, and more recently Artificial Intelligence Safety.
 
 Currently, I hold the following positions:
-1. <strong>Machine Learning Intern</strong> for the summer (2023) at the <a href="https://www.intel.com/content/www/us/en/homepage.html">Intel Corporation</a> (remote) 
-2. <strong>Student Developer</strong> at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I work part-time as part of the <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a> team. I am currently designing the backend components for the upcoming analytics pipeline in DABI. 
+1. <strong>Machine Learning Intern</strong> for the summer (2023) at the <a href="https://www.intel.com/content/www/us/en/homepage.html">Intel Corporation</a> (remote) where I am currently building intelligent solutions to optimize patching of linux machines within the Engineering Compute's cloud offerring
+2. <strong>Student Researcher</strong> at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I am leading a team of 5 engineers for NIH's <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a>, spearheading the development of the analysis pipeline and multiple backend components.
 
 <!-- Currently, I hold two positions at USC: 
 1. Student Researcher in the Department of Chemistry at USC Dornsife, working under the guidance of Professor <a href="https://dornsife.usc.edu/chemistry/vilesov/">Andrey Vilesov</a> where I am helping with the analysis of X-ray diffraction images of <em>He</em> bubbles using deep learning models.
