@@ -26,6 +26,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: 
+    date_start: '2023-06-01'
+    # description: ''
+    organization: USC
+    organization_url: https://www.cs.usc.edu
+    title: 'CSCI MS Honors'
+  - certificate_url: 
     date_start: '2023-01-30'
     # description: ''
     organization: USC-AI-Safety
