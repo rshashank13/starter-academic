@@ -33,6 +33,16 @@ experience:
     description: |
       Courses: Algorithms, Machine Learning, Deep Learning, Natural Language Processing
 
+  - title: Teaching Assistant
+    company: University of Southern California
+    company_url: 'https://www.cs.usc.edu'
+    company_logo: usc
+    location: Los Angeles, CA, USA (Remote)
+    date_start: '2023-09-08'
+    # date_end: ''
+    description: |
+      * Serving as Teaching Assistant for DSCI-250: Introduction to Data Science for the Fall 2023 offerring.
+
   - title: Machine Learning Intern
     company: Intel Corporation
     company_url: 'https://www.intel.com'

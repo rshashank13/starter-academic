@@ -74,12 +74,14 @@ email: shashank.rangarajan@usc.edu
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+🚀 Summary (Who I am): Seasoned engineer 🛠️ | Machine Learning scientist 🧠 | Leader 🌟
 
-I am a Master of Science in Computer Science (Artificial Intelligence) student at the University of Southern California (USC). My research interests are primarily Cognitive modeling, Natural Language Processing, and more recently Artificial Intelligence Safety.
+I am a Master of Science in Computer Science student at the University of Southern California (USC). My research interests primarily revolve around Natural Language Processing and Artificial Intelligence Safety. In addition, I possess expertise in MLOps and have a proven track record of successfully implementing end-to-end ML pipelines, encompassing the entire journey from data preprocessing to production deployment at scale.
 
 Currently, I hold the following positions:
-1. <strong>Machine Learning Intern</strong> for the summer (2023) at the <a href="https://www.intel.com/content/www/us/en/homepage.html">Intel Corporation</a> (remote) where I am currently building intelligent solutions to optimize patching of linux machines within the Engineering Compute's cloud offerring
-2. <strong>Student Researcher</strong> at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I am leading a team of 5 engineers for NIH's <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a>, spearheading the development of the analysis pipeline and multiple backend components.
+1. <strong>Machine Learning Intern</strong> at the <a href="https://www.intel.com/content/www/us/en/homepage.html">Intel Corporation</a> (remote). In this role, I am actively involved in developing intelligent solutions aimed at optimizing patching procedures for Linux machines within the Engineering Compute's cloud offering.
+2. <strong>Teaching Assistant</strong> for the Fall 2023 offering of <a href=""> DSCI-250:Introduction to Data Science </a> under the guidance of <a href="https://viterbi.usc.edu/directory/faculty/Raghavachary/Saty">Prof. Sathyanarayan Raghavachary</a>. This role enables me to pursue my passion for teaching and contribute to enhancing the knowledge base of fellow students.
+2. <strong>Student Researcher</strong> at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan</a>. In this capacity, I lead a team of 5 engineers for the NIH's <a href="https://dabi.loni.usc.edu/">Data Archive BRAIN Initiative (DABI)</a>. My focus is on spearheading the development of the analysis pipeline and various backend components.
 
 <!-- Currently, I hold two positions at USC: 
 1. Student Researcher in the Department of Chemistry at USC Dornsife, working under the guidance of Professor <a href="https://dornsife.usc.edu/chemistry/vilesov/">Andrey Vilesov</a> where I am helping with the analysis of X-ray diffraction images of <em>He</em> bubbles using deep learning models.
