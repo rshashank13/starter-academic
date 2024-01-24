@@ -1,0 +1,3 @@
+To build: hugo
+
+For local server: hugo server

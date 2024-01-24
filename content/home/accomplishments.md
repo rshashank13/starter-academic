@@ -26,6 +26,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: 
+    date_start: '2023-11-01'
+    description: 'Presented the linux patching solution at ECTC, an internal conference'
+    organization: Intel
+    organization_url: https://www.intel.com
+    title: 'Presenter @ Engineering Compute Technical Conference (ECTC)'
+  - certificate_url: 
+    date_start: '2023-10-01'
+    # description: ''
+    organization: Intel
+    organization_url: https://www.intel.com
+    title: 'Department Recognition Award (DRA)'
+  - certificate_url: 
     date_start: '2023-06-01'
     # description: ''
     organization: USC

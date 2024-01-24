@@ -29,19 +29,20 @@ experience:
     company_logo: usc
     location: Los Angeles, CA, USA
     date_start: '2022-08-22'
-    # date_end: ''
+    # date_end: '2024-05-10'
     description: |
-      Courses: Algorithms, Machine Learning, Deep Learning, Natural Language Processing
+      Courses: Algorithms, Machine Learning, Deep Learning, Natural Language Processing, Database Systems, Multimedia Systems, Information Retrieval and Web Search Engines
 
-  - title: Teaching Assistant
+  - title: Graduate Teaching Assistant
     company: University of Southern California
     company_url: 'https://www.cs.usc.edu'
     company_logo: usc
-    location: Los Angeles, CA, USA (Remote)
-    date_start: '2023-09-08'
-    # date_end: ''
+    location: Los Angeles, CA, USA
+    date_start: '2023-08-18'
+    # date_end: '2024-05-10'
     description: |
-      * Serving as Teaching Assistant for DSCI-250: Introduction to Data Science for the Fall 2023 offerring.
+      * CSCI-585: Database Systems for the Spring 2024 offerring.
+      * DSCI-250: Introduction to Data Science for the Fall 2023 offerring.
 
   - title: Machine Learning Intern
     company: Intel Corporation
@@ -54,6 +55,8 @@ experience:
       * Innovated a deep-learning based patch scheduler, cut machine blocking, and reduced wastage by 60%
       * Streamlined experimentation and rapid model iteration with MLOps pipeline, yielding superior performances
       * Leveraged LLM expertise, achieved a 30% performance boost by fine-tuning the RoBERTa model
+      * Developed a scalable model deployment framework using MLflow & Docker, with a centralized model registry, containerized model-serving API enabling rapid deployment across multiple locations.
+      * Building a helpful chatbot using RAG (retrieval augmented generation) with Azure-OpenAI GPT to enhance user experience in navigating our cloud management portal.
       
   - title: Student Researcher
     company: University of Southern California
@@ -61,9 +64,9 @@ experience:
     company_logo: usc
     location: Los Angeles, CA, USA
     date_start: '2023-02-15'
-    # date_end: ''
+    date_end: '2023-12-31'
     description: |
-      * <strong>Student Researcher</strong> (Feb 2023 - Present) at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I work part-time and lead a team of 5 engineers for NIH's  <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a>, spearheading the development of the analysis pipeline and multiple backend components.
+      * <strong>Student Researcher</strong> (Feb 2023 - Dec 2023) at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I work part-time and lead a team of 5 engineers for NIH's  <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a>, spearheading the development of the analysis pipeline and multiple backend components.
       * <strong>Student Researcher</strong> (Feb 2023 - May 2023) in the Department of Chemistry at USC Dornsife, working under the guidance of Professor <a href="https://dornsife.usc.edu/chemistry/vilesov/">Andrey Vilesov</a> where I helped with the analysis of X-ray diffraction images of <em>He</em> (Helium) bubbles using deep learning.
 
   - title: Software Development Engineer I
