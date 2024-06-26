@@ -23,13 +23,23 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Machine Learning/ Data Scientist - II
+    company: Intel Corporation (US)
+    company_url: 'https://www.intel.com'
+    company_logo: intel
+    location: Folsom, CA, USA
+    date_start: '2024-07-01'
+    # date_end: '2024-05-09'
+    description: |
+      
+
   - title: Master of Science in Computer Science
     company: University of Southern California
     company_url: 'https://www.cs.usc.edu'
     company_logo: usc
     location: Los Angeles, CA, USA
     date_start: '2022-08-22'
-    # date_end: '2024-05-10'
+    date_end: '2024-05-10'
     description: |
       Courses: Algorithms, Machine Learning, Deep Learning, Natural Language Processing, Database Systems, Multimedia Systems, Information Retrieval and Web Search Engines
 
@@ -39,24 +49,24 @@ experience:
     company_logo: usc
     location: Los Angeles, CA, USA
     date_start: '2023-08-18'
-    # date_end: '2024-05-10'
+    date_end: '2024-05-10'
     description: |
       * CSCI-585: Database Systems for the Spring 2024 offerring.
       * DSCI-250: Introduction to Data Science for the Fall 2023 offerring.
 
   - title: Machine Learning Intern
-    company: Intel Corporation
+    company: Intel Corporation (US)
     company_url: 'https://www.intel.com'
     company_logo: intel
     location: Los Angeles, CA, USA (Remote)
     date_start: '2023-05-22'
-    # date_end: ''
+    date_end: '2024-05-09'
     description: |
       * Innovated a deep-learning based patch scheduler, cut machine blocking, and reduced wastage by 60%
       * Streamlined experimentation and rapid model iteration with MLOps pipeline, yielding superior performances
       * Leveraged LLM expertise, achieved a 30% performance boost by fine-tuning the RoBERTa model
       * Developed a scalable model deployment framework using MLflow & Docker, with a centralized model registry, containerized model-serving API enabling rapid deployment across multiple locations.
-      * Building a helpful chatbot using RAG (retrieval augmented generation) with Azure-OpenAI GPT to enhance user experience in navigating our cloud management portal.
+      * Built a helpful chatbot using RAG (retrieval augmented generation) + OpenAI Tools Agent and Azure-OpenAI ChatGPT to enhance user experience in navigating and performing analytical queries our cloud management portal.
       
   - title: Student Researcher
     company: University of Southern California

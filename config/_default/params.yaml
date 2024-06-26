@@ -6,25 +6,25 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: cyberpunk
+  theme_night: cyberpunk
+  font: cyberpunk
   font_size: m
 
 # SEO
 
-# marketing:
-#   seo:
-#     site_type: Person
+marketing:
+  seo:
+    site_type: Person
 #     local_business_type: ''
-#     org_name: ''
-#     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-#     twitter: 'wowchemy'
+    org_name: 'Intel Corporation'
+    description: 'Machine Learning @ Intel Corporation (US)'
+    twitter: 'rshashank13'
 #   analytics:
 #     google_analytics: ''
 #     baidu_tongji: ''
-#   verification:
-#     google: ''
+  verification:
+    google: '6iAoRtFnEH9bIL1ylAIgwS26hH3O_EitlWbpeFflG1M'
 #     baidu: ''
 
 # Site header
@@ -43,9 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2023 Shashank Rangarajan. All rights reserved.'
-    # notice: '© {year} Sai Anuroop Kesanapalli. All rights reserved.'
-    # notice: '© {year} Sai Anuroop Kesanapalli. This work is licensed under {license}'
+    notice: '© 2024 Shashank Rangarajan. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false

@@ -10,15 +10,15 @@ last_name: Rangarajan
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
+role: Machine Learning/ Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Southern California
-    url: https://www.cs.usc.edu
+  - name: Intel Corporation
+    url: https://www.intel.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Master of Science in Computer Science student at the University of Southern California. My research interests are primarily Cognitive modeling, Natural Language Processing, and more recently Artificial Intelligence Safety.
+bio: I am an ML engineer at Intel (US), and my interests include - building new skills, leadership, entrepreneurship, and AI.
 
 # Interests to show in About widget
 # interests:
@@ -74,22 +74,30 @@ email: rshashank13.sgk@gmail.com
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-🚀 Summary (Who I am): Seasoned engineer 🛠️ | Machine Learning scientist 🧠 | Leader 🌟
+🚀 Seasoned Engineer (4+ years) | 🤖 ML | 💻 SDE | 🔥 Leader
 
-I am a Master of Science in Computer Science student at the University of Southern California (USC). My research interests primarily revolve around Natural Language Processing and Artificial Intelligence Safety. In addition, I possess expertise in MLOps and have a proven track record of successfully implementing end-to-end ML pipelines, encompassing the entire journey from data preprocessing to production deployment at scale.
+<ul>
+  <li>
+    Current Role: Machine Learning/ Data Scientist - II at <a href="https://www.intel.com/content/www/us/en/homepage.html">Intel Corporation</a> (US)
+  </li>
+  <li>
+    Experience: 4+ years of work experience in Machine Learning, Software Development. Expertise in Applied ML research, MLOps, System design, and a proven track of developing large-scale data systems, including implementation of Machine Learning at Scale solutions in the E-Commerce, Semiconductor, Mobile Phone industries
+  </li>
+  <li>
+    Education:
+      <ul>
+        <li>
+          Master of Science in Computer Science with Honors from the <a href="https://usc.edu">University of Southern California </a> (USC). 
+        </li>
+        <li>
+          Bachelor of Engineering in Computer Science & Engineering from <a href="https://sjce.ac.in"> Sri Jayachamarajendra College of Engineering</a> (SJCE)
+        </li>
+      </ul>
+  </li>
+  <li>
+    Areas of Expertise: Natural Language Understanding, Deep Learning, Information Retrieval, Computer Vision, Big Data Systems, Multimedia Systems, GenAI, AI Safety.
+  </li>
+</ul>
 
-Currently, I hold the following positions:
-1. <strong>Machine Learning Intern</strong> at the <a href="https://www.intel.com/content/www/us/en/homepage.html">Intel Corporation</a> (remote). In this role, I am actively involved in developing intelligent solutions aimed at optimizing patching procedures for Linux machines within the Engineering Compute's cloud offering.
-2. <strong>Graduate Teaching Assistant</strong> for the Spring 2024 offering of <a href="https://bytes.usc.edu/cs585/s24-d-a-t-aaa/home/index.html"> CSCI-585:Database Systems </a> under the guidance of <a href="https://viterbi.usc.edu/directory/faculty/Raghavachary/Saty">Prof. Saty Raghavachary</a>. This role enables me to pursue my passion for teaching and contribute to enhancing the knowledge base of fellow students.
-<!-- 2. <strong>Student Researcher</strong> at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan</a>. In this capacity, I lead a team of 5 engineers for the NIH's <a href="https://dabi.loni.usc.edu/">Data Archive BRAIN Initiative (DABI)</a>. My focus is on spearheading the development of the analysis pipeline and various backend components. -->
-
-<!-- Currently, I hold two positions at USC: 
-1. Student Researcher in the Department of Chemistry at USC Dornsife, working under the guidance of Professor <a href="https://dornsife.usc.edu/chemistry/vilesov/">Andrey Vilesov</a> where I am helping with the analysis of X-ray diffraction images of <em>He</em> bubbles using deep learning models.
-2. Student Developer at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I am part of the <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a> developing an upcoming analytics pipeline for DABI. -->
-
-Prior to joining USC, I gained valuable industry experience as a Software Engineer at both <a href="https://amazon.com"> Amazon Inc. </a> and <a href=""> Motorola Mobility </a>. During my tenure, I honed my skills in developing scalable software solutions, as well as developing AI systems for industrial applications. These experiences in the industry inspired me to pursue a master's degree specializing in AI, as I am passionate about understanding the principles behind the systems that govern major technological innovations in the modern world.
-
-Prior to that, I earned my Bachelor of Engineering in Computer Science and Engineering from <a href="https://sjce.ac.in"> SJCE Mysore</a>, where I was ranked third in the department for my outstanding performance.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Find my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 

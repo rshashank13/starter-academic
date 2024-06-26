@@ -37,8 +37,8 @@ item:
     organization: Intel
     organization_url: https://www.intel.com
     title: 'Department Recognition Award (DRA)'
-  - certificate_url: 
-    date_start: '2023-06-01'
+  - certificate_url: https://www.linkedin.com/in/rshashank13/overlay/1719443093844/single-media-viewer/?profileId=ACoAACStJx4BpSMPsahb8i0sN7W2VRm2iMuBl6E
+    date_start: '2024-05-10'
     # description: ''
     organization: USC
     organization_url: https://www.cs.usc.edu
@@ -68,7 +68,7 @@ item:
     title: Amazon MLU - X-Ray Fraud Detection Challenge
     url: ''
     description: Presented our solution to Amazon ML community after being in the top 5 out of 250+ submissions in the internal hackathon
-  - certificate_url: 
+  - certificate_url: https://www.linkedin.com/in/rshashank13/overlay/1635481810869/single-media-viewer/?profileId=ACoAACStJx4BpSMPsahb8i0sN7W2VRm2iMuBl6E
   #   date_end: ''
     date_start: '2019-05-31'
     description: ''
