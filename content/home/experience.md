@@ -23,15 +23,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Machine Learning/ Data Scientist - II
+  - title: Machine Learning Scientist - II
     company: Intel Corporation (US)
     company_url: 'https://www.intel.com'
     company_logo: intel
     location: Folsom, CA, USA
-    date_start: '2024-07-01'
-    # date_end: '2024-05-09'
+    date_start: '2024-06-01'
     description: |
-      
+      * Improved NFS (Network File System) utilization, and cut job execution time by ~ 40-60% through time-series analysis and statistical machine learning models to predict slowness events and redistribute loads
+
+  
+  - title: Machine Learning (Intern)
+    company: Intel Corporation (US)
+    company_url: 'https://www.intel.com'
+    company_logo: intel
+    location: Folsom, CA, USA
+    date_start: '2023-05-01'
+    date_end: '2024-05-10'
+    description: |
+      * Optimized OS patch/fix scheduling, and reduced resource wastage by 60% using job runtime predictions from a CatBoost model. Further boosted model performance by 30% by processing unstructured text with a BERT-based encoder model.
+      * Accelerated model deployments by 10x by designing a scalable MLOps framework with MLflow for experimentation and model registry, Docker for containerization of the inference API, and Kafka for logging metrics
+      * Enhanced customer experience on capacity management portal by adding an Azure-OpenAI based LLM chatbot with RAG (retrieval augmented generation), and agentic (OpenAI function calling, LangChain’s tool) capabilities for data analytics
 
   - title: Master of Science in Computer Science
     company: University of Southern California
@@ -53,20 +65,6 @@ experience:
     description: |
       * CSCI-585: Database Systems for the Spring 2024 offerring.
       * DSCI-250: Introduction to Data Science for the Fall 2023 offerring.
-
-  - title: Machine Learning Intern
-    company: Intel Corporation (US)
-    company_url: 'https://www.intel.com'
-    company_logo: intel
-    location: Los Angeles, CA, USA (Remote)
-    date_start: '2023-05-22'
-    date_end: '2024-05-09'
-    description: |
-      * Innovated a deep-learning based patch scheduler, cut machine blocking, and reduced wastage by 60%
-      * Streamlined experimentation and rapid model iteration with MLOps pipeline, yielding superior performances
-      * Leveraged LLM expertise, achieved a 30% performance boost by fine-tuning the RoBERTa model
-      * Developed a scalable model deployment framework using MLflow & Docker, with a centralized model registry, containerized model-serving API enabling rapid deployment across multiple locations.
-      * Built a helpful chatbot using RAG (retrieval augmented generation) + OpenAI Tools Agent and Azure-OpenAI ChatGPT to enhance user experience in navigating and performing analytical queries our cloud management portal.
       
   - title: Student Researcher
     company: University of Southern California
@@ -76,10 +74,10 @@ experience:
     date_start: '2023-02-15'
     date_end: '2023-12-31'
     description: |
-      * <strong>Student Researcher</strong> (Feb 2023 - Dec 2023) at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I work part-time and lead a team of 5 engineers for NIH's  <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a>, spearheading the development of the analysis pipeline and multiple backend components.
-      * <strong>Student Researcher</strong> (Feb 2023 - May 2023) in the Department of Chemistry at USC Dornsife, working under the guidance of Professor <a href="https://dornsife.usc.edu/chemistry/vilesov/">Andrey Vilesov</a> where I helped with the analysis of X-ray diffraction images of <em>He</em> (Helium) bubbles using deep learning.
+      * <strong>Student Researcher</strong> (Feb 2023 - Dec 2023) at the <a href="https://loni.usc.edu/"> Laboratory of Neuro Imaging (LONI) </a> at USC Keck School of Medicine, advised by Professor <a href="https://viterbi.usc.edu/directory/faculty/Duncan/Dominique"> Dominique Duncan </a> where I delivered major backend APIs for <a href="https://dabi.loni.usc.edu/home">Data Archive BRAIN Initiative (DABI)</a> Analytics control plane, enabling customers to run 50+ EER pipelines with multiple data processing and machine learning steps. And, I also managed a team of 5 software engineers and fast-tracked deployments
+      * <strong>Student Researcher</strong> (Feb 2023 - May 2023) in the Department of Chemistry at USC Dornsife, working under the guidance of Professor <a href="https://dornsife.usc.edu/chemistry/vilesov/">Andrey Vilesov</a> where I helped with the analysis of X-ray diffraction images of <em>He</em> (Helium) bubbles using deep learning. I Implemented multimodal deep learning models with 98% efficacy, synthesized data and statistical estimation models for radius, intensity, aspect-ratio, and rotation of the bubbles.
 
-  - title: Software Development Engineer I
+  - title: Software Development Engineer (Machine Learning) I
     company: Amazon Inc.
     company_url: 'https://www.amazon.in'
     company_logo: amazon
@@ -87,13 +85,13 @@ experience:
     date_start: '2020-06-15'
     date_end: '2022-07-22'
     description: |
-      * Worked on Expresso: An internal MLOps platform built to accelerate experimentation and deployment of ML models
-      * Designed ETL support on Expresso, and onboarded 1 production use case.
-      * Re-architected the legacy Machine Learning Training Platform, and migrated 90+ production models with 100% uptime and performance.
-      * Moved production system to federated AWS accounts with 0-data loss and minimal availability impact.
-      * Launched and brought in 5 customer teams to Configuration Panel, CLI, and Web UI.
-      * Mitigated 100+ security risks, Fixed Sev-2s, across 10+ production pipelines owned by Expresso team.
-      * Mentored 1 intern, and orchestrated development of a peer-review component on Expresso.
+      * Worked on Expresso: An internal ML and Data Ops platform to accelerate experimentation and deployment of ML models
+      * Accelerated ETL experiment-to-production by integrating Apache Zeppelin notebooks as EMR steps in production workflows. Collaborated with customers to onboard the first production use case.
+      * Developed an event-based ML retraining pipeline using AWS Sagemaker, StepFunctions, and DynamoDB. Collaborated with cross-functional teams (applied scientists, developers) to migrate 90+ production models with 100% uptime
+      * Simplified updating dynamic configurations (for model training, inference, DAG, etc.) in production, with Expresso Configuration Panel – a one-click solution.  Reduced end-to-end efforts from one week to approximately 10 minutes
+      * Mentored one intern, and supervised peer-review and approval mechanism features for Expresso Configuration Panel
+      * Maintained operational excellence by resolving 100+ security risks and SEV2s across 10+ production pipelines
+
   
   - title: Software Development Engineer
     company: Motorola Mobility Inc.
@@ -104,10 +102,11 @@ experience:
     date_end: '2020-06-12'
     description: |
       * Worked as a developer in the Over-The-Air Updates team (OTA)—that owns software upgrades solution for Motorola devices world-wide
-      * Developed & Owned the Smart Update feature—a feature to apply software upgrades seamlessly & securely, thereby enhancing user experience—for a line of classic Motorola phones (100K+ devices world-wide).
-      * Adapted Motorola's Device management solutions to Lenovo device specifications 
-      * Designed & developed a Recommender System prototype for Motorola’s ‘Hello-You’ app 
-      * Mentored two interns orchestrated a tool implementation—Visual Log Analyzer—for an internal hackathon
+      * Implemented seamless upgrades for over 100,000+ devices by designing a smart update feature that detects inactivity to apply updates overnight
+      * Enhanced user engagement and customer satisfaction by integrating a customer feedback feature into the OTA app
+      * Personalized the user experience with game recommendations that increased click-through rates by 20%. Implemented a recommender system using autoencoder and deep neural network models. Led a team of four software engineers to integrate recommendations into the "Hello You" app
+      * Managed two interns and created a log analyzer for automatic call-drop detection, reducing turnaround time for 40% of tickets 
+
     
         
   - title: Bachelor of Engineering in Computer Science and Engineering

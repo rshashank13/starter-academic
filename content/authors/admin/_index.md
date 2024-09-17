@@ -78,10 +78,10 @@ highlight_name: true
 
 <ul>
   <li>
-    Current Role: Machine Learning/ Data Scientist - II at <a href="https://www.intel.com/content/www/us/en/homepage.html">Intel Corporation</a> (US)
+    Current Role: Machine Learning Scientist - II at <a href="https://www.intel.com/content/www/us/en/homepage.html">Intel Corporation</a> (US)
   </li>
   <li>
-    Experience: 4+ years of work experience in Machine Learning, Software Development. Expertise in Applied ML research, MLOps, System design, and a proven track of developing large-scale data systems, including implementation of Machine Learning at Scale solutions in the E-Commerce, Semiconductor, Mobile Phone industries
+    Experience: 4+ years of work experience in Machine Learning, Software Development. Expertise in Applied ML research, MLOps, System design, and a proven track of developing large-scale data systems, including implementation of Machine Learning at Scale solutions in the E-Commerce (Amazon), Semiconductor (Intel), Mobile Phone industries (Motorola)
   </li>
   <li>
     Education:
@@ -95,7 +95,7 @@ highlight_name: true
       </ul>
   </li>
   <li>
-    Areas of Expertise: Natural Language Understanding, Deep Learning, Information Retrieval, Computer Vision, Big Data Systems, Multimedia Systems, GenAI, AI Safety.
+    Areas of Expertise: Natural Language Understanding, Deep Learning, Information Retrieval, GenAI, AI Safety.
   </li>
 </ul>
 
